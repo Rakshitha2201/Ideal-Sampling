@@ -5,7 +5,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 Python IDE with Numpy and Scipy.
 # Program
 ## Ideal Sampling
-```
+``` 
 #Ideal Sampling
 
 import numpy as np
