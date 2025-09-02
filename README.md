@@ -206,8 +206,10 @@ plt.show()
 
 <img width="866" height="393" alt="12" src="https://github.com/user-attachments/assets/af604d17-ebb3-4905-9ea8-75deef41c817" />
 <img width="866" height="393" alt="13" src="https://github.com/user-attachments/assets/c184df9d-e509-429b-8ff2-874a85e55d14" />
+
 ## Natural Sampling
 <img width="1398" height="990" alt="31" src="https://github.com/user-attachments/assets/bae2b7cc-cfb2-4c8e-802d-cec1f5d44045" />
+
 ## Flat-top Sampling
 <img width="1398" height="990" alt="31" src="https://github.com/user-attachments/assets/21d1fb66-155e-42b0-8170-616ed43e2a70" />
 
